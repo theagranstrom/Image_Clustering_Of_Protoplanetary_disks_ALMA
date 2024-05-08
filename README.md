@@ -1,7 +1,7 @@
 # Image_Clustering_Of_Protoplanetary_disks_ALMA
 Kandidatarbete på Institutionen för Rymd, Geo- och Miljövetenskap på Chalmers Tekniska Högskola
 
-Detektering, behandling och klustring av protoplanetära	skivor i ALMA-arkivet,
+**Detektering, behandling och klustring av protoplanetära	skivor i ALMA-arkivet** <br />
 utveckling av en oövervakad maskininlärningsmodell
 
 WILLIAM BERGQUIST, MARIE CARLANDER, THEA GRANSTRÖM, CONRAD OLSSON, VILHELM NILSSON THORSSON OCH HANNES ÖHMAN
